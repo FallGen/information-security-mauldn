@@ -1,6 +1,6 @@
 /* Базовые настройки сброса и шрифтов */
 :root {
-    --primary-color: #003b5c; /* Строгий синий цвет */
+    --primary-color: #ea513c;
     --bg-color: #f4f7f6;
     --text-color: #333333;
     --card-bg: #ffffff;
@@ -41,6 +41,12 @@ header h1 {
     font-size: 1.8rem;
     margin-bottom: 0.5rem;
 }
+
+header h4 {
+    font-size: 3.8rem;
+    margin-bottom: 0.5rem;
+}
+
 
 header p {
     font-size: 1rem;
